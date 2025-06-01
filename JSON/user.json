@@ -1,0 +1,9 @@
+{
+    "name": "jamal",
+    "age": 18,
+    "address": {
+        "country": "Indonesia",
+        "city": "Jekardah"
+    },
+    "hobby": ["code", "chess", "music"]
+}

@@ -19,3 +19,14 @@ console.log(parsingDate);
 
 const formatParsing = new Date(parsingDate);
 console.info(formatParsing)
+
+// getter & setter bit weird here
+
+
+const date = new Date();
+
+console.info(date.getFullYear());
+console.info(date.getMonth());
+console.info(date.getDay());
+console.info(date.getHours());
+
